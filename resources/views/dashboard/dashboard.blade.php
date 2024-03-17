@@ -1,5 +1,5 @@
 @extends('layouts.layout')
 
 @section('content')
-weogbnweogbnreg
+  <h1>Dashboard</h1>
 @endsection
